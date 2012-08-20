@@ -6,10 +6,10 @@ and Geosciences".
   
 
 Eight files, numbered WL1.sgy through WL8.sgy, contain seismic 
-data collected whenat eight different water levesl in the 
+data collected whenat eight different water levels in the 
 Sand Tank.
 
-Each SEG-Y formatted file (Barry  ) consists of an initial 
+Each SEG-Y formatted file (Barry et al., 1975) consists of an initial 
 3200-byte tape header (in EBCDIC format), followed by a 400-byte 
 binary tape header, and 64 contiguous sets of data streams, or traces, 
 one for each sensor in the arrray. Each trace is of equal length 
