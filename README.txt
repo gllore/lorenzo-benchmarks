@@ -27,6 +27,13 @@ SEGY data can be viewed in several open source software, such as Seismic
 Unix from the ColoradoSchool of Mines, Center for Wave Phenomena 
 (www.cwp.mines.edu). 
 
+
+Added: November 21 2012
+Both equations 2 and 3 contain typographical errors which are corrected 
+in files "Equation2" and "Equation3", respectively.  Both these files 
+written in RTF format.
+
+
 References
 Barry, K.M., Cavers, D.A., Kneale, C.W., 1975. Report on recommended 
 standards for digital tape formats. Geophysics 40, 344-352
