@@ -28,10 +28,29 @@ Unix from the ColoradoSchool of Mines, Center for Wave Phenomena
 (www.cwp.mines.edu). 
 
 
-Added: November 21 2012
+
+Added: November 21, 2012:
+
 Both equations 2 and 3 contain typographical errors which are corrected 
-in files "Equation2" and "Equation3", respectively.  Both these files 
+in files "Equation2" and "Equation3", respectively.  Both files are 
 written in RTF format.
+
+
+Added: November 21, 2012:
+
+On October 20 we cut a trench close to and parallel to line of
+seismic experiments by Lorenzo et al., (2012). Three different sand
+layers are observed, one more than had previously been known.  Samples
+from each layer have been taken for granulometric
+analysis.  
+
+An image file in JPG format ("cross-sectionwithsample locations.jpg") 
+that shows the different sand layers and indicates the location of the different
+granulometry samples is available in the subfolder called "SandTankHomogenization"
+
+On October 20 through 27 of October 2012 we completed homogenization
+of all the sand using shovels.
+
 
 
 References
